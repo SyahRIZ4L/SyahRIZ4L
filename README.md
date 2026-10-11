@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zulfi Syahrizal
+# Syahrizal
 **Information Technology Student | Backend & Software Engineer**
 
 [![BNSP Certified](https://img.shields.io/badge/BNSP-Certified-0052CC?style=flat-square)](#)
