@@ -14,7 +14,15 @@
 ---
 
 ### 📌 About Me
-Mahasiswa **Teknologi Informasi Universitas Negeri Yogyakarta (UNY)** alumni **SMKN 1 Bantul (Rekayasa Perangkat Lunak)** bersertifikasi kompetensi nasional (**BNSP**). Memiliki fokus pada **Backend Web Development**, **Mobile Development**, serta pengelolaan sistem basis data dan arsitektur perangkat lunak.
+Mahasiswa **Teknologi Informasi Universitas Negeri Yogyakarta (UNY)** alumni **SMKN 1 Bantul (Rekayasa Perangkat Lunak)** bersertifikasi kompetensi nasional (**BNSP**). Memiliki pengalaman kerja industri di **SV Bursa Multimedia Group** serta berfokus pada **Backend Web Development**, **Mobile Development**, dan arsitektur perangkat lunak.
+
+---
+
+### 💼 Work Experience
+
+| Perusahaan / Perusahaan | Peran / Posisi | Deskripsi Singkat |
+| :--- | :--- | :--- |
+| **SV Bursa Multimedia Group** | Software Developer / Technical Intern | Pengoperasian dan pengembangan sistem perangkat lunak, pengelolaan basis data, serta penanganan alur kerja teknis perusahaan. |
 
 ---
 
