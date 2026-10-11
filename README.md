@@ -13,19 +13,6 @@
 
 ---
 
-### 📌 About Me
-Mahasiswa **Teknologi Informasi Universitas Negeri Yogyakarta (UNY)** alumni **SMKN 1 Bantul (Rekayasa Perangkat Lunak)** bersertifikasi kompetensi nasional (**BNSP**). Memiliki pengalaman kerja industri di **CV Multimedia Group** serta berfokus pada **Backend Web Development**, **Mobile Development**, dan arsitektur perangkat lunak.
-
----
-
-### 💼 Work Experience
-
-| Perusahaan / Perusahaan | Peran / Posisi | Deskripsi Singkat |
-| :--- | :--- | :--- |
-| **CV Multimedia Group** | Software Developer / Technical Intern | Pengoperasian dan pengembangan sistem perangkat lunak, pengelolaan basis data, serta penanganan alur kerja teknis perusahaan. |
-
----
-
 ### 💻 Portfolio & Projects Showcase
 
 #### 🏢 Business & Enterprise Systems
@@ -61,16 +48,6 @@ Mahasiswa **Teknologi Informasi Universitas Negeri Yogyakarta (UNY)** alumni **S
 | **Backend & API** | RESTful API Development, Authentication & Authorization, Session Management, Database Optimization |
 | **Databases** | MySQL, MariaDB |
 | **Tools & Environment** | Git, GitHub, Postman, VS Code, VRChat Tools, Windows Environment |
-
----
-
-### 🎓 Education & Certification
-
-| Kategori | Institusi / Lembaga | Jurusan / Program |
-| :--- | :--- | :--- |
-| **Pendidikan Tinggi** | Universitas Negeri Yogyakarta (UNY) | S1 Teknologi Informasi |
-| **Pendidikan Menengah** | SMKN 1 Bantul | Rekayasa Perangkat Lunak (RPL) |
-| **Sertifikasi Profesi** | BNSP (Badan Nasional Sertifikasi Profesi) | Pemrograman Web / Software Developer (SKKNI) |
 
 ---
 
