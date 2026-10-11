@@ -1,10 +1,11 @@
 <div align="center">
 
-# Syahrizal
-**Backend Developer | Software Engineering**
+# Zulfi Syahrizal
+**Information Technology Student | Backend & Software Engineer**
 
 [![BNSP Certified](https://img.shields.io/badge/BNSP-Certified-0052CC?style=flat-square)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](#)
+[![Flutter/Dart](https://img.shields.io/badge/Flutter%2FDart-02569B?style=flat-square&logo=flutter&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 
@@ -13,37 +14,55 @@
 ---
 
 ### 📌 About Me
-Lulusan Rekayasa Perangkat Lunak bersertifikasi kompetensi nasional (**BNSP**). Berfokus pada pengembangan **Backend Web Application**, pengelolaan arsitektur basis data, serta senang membangun berbagai proyek web—mulai dari sistem enterprise hingga proyek eksplorasi kreatif.
+Mahasiswa **Teknologi Informasi Universitas Negeri Yogyakarta (UNY)** alumni **SMKN 1 Bantul (Rekayasa Perangkat Lunak)** bersertifikasi kompetensi nasional (**BNSP**). Memiliki fokus pada **Backend Web Development**, **Mobile Development**, serta pengelolaan sistem basis data dan arsitektur perangkat lunak.
 
 ---
 
-### 💻 Projects & Featured Work
+### 💻 Portfolio & Projects Showcase
 
-#### 🏢 Enterprise & Management Systems
-- **Web Manager / System Internal CV** — System management operasional internal untuk perusahaan/CV (pengelolaan data, inventaris, dan laporan).
-- **Platform E-Commerce / Web Jual Beli** — Aplikasi web toko online dengan manajemen katalog produk, stok, dan alur transaksi.
-- **Sistem Informasi Peminjaman** — Sistem tata kelola dan pencatatan peminjaman aset/barang beserta lacak riwayat & pengembalian.
+#### 🏢 Business & Enterprise Systems
+- **Web Management CV / Internal System** — Sistem manajemen operasional internal perusahaan (data karyawan, inventaris, & laporan).
+- **Aplikasi Kasir (POS System)** — Sistem transaksi penjualan, manajemen stok produk, dan pencatatan kasir.
+- **Platform E-Commerce / Web Jual Beli** — Web toko online dengan katalog produk, stok, dan alur transaksi.
+- **Sistem Informasi Peminjaman** — Sistem tata kelola peminjaman aset/barang beserta pelacakan riwayat & pengembalian.
+- **Web & Mobile Project Management** — Platform manajemen proyek (Web & Mobile) untuk tracking task dan kolaborasi tim.
 
-#### 🧪 Creative & Side Projects
-- **Web Matchmaking / Pencari Jodoh** — Eksplorasi aplikasi pencari jodoh dengan filter kriteria, sistem rekomendasi/matching, dan manajemen profil.
-- **Web Traveling & Tourism** — Platform panduan wisata dan reservasi destinasi dengan fitur eksplorasi lokasi dan rekomendasi rute.
+#### 🎮 Gaming & Gaming Ecosystem
+- **Web Top-Up & Joki Game** — Platform layanan transaksi top-up game dan jasa boosting/joki account.
+- **Game Development & VRChat Projects** — Pengembangan game kustom serta pembuatan/modifikasi aset untuk proyek VRChat.
+
+#### 📱 Mobile Apps & API Services
+- **Mobile Calculator (Dart / Flutter)** — Aplikasi kalkulator mobile yang responsif.
+- **To-Do List RESTful API** — Backend API service untuk manajemen tugas (CRUD, status, & autentikasi).
+
+#### 🌐 Media, Entertainment & AI
+- **Web Reader Light Novel** — Platform web pembaca Light Novel dengan tata letak nyaman & manajemen katalog bab.
+- **Web Music Streaming / Player** — Web pemutar musik interaktif dengan fitur playlist & kontrol audio.
+- **Simple AI Project** — Eksplorasi integrasi dan pemrosesan AI sederhana.
+- **Web Travel & Tourism** — Web panduan wisata dan destinasi perjalanan.
+- **Web Matchmaking / Pencari Jodoh** — Platform eksplorasi sistem filter kriteria dan pencarian kustom.
 
 ---
 
-### 🛠️ Technical Skills & Competencies
+### 🛠️ Technical Skills & Tools
 
-* **Backend Development:** PHP, Laravel Framework, RESTful API, Session Management, Authentication & Authorization
-* **Database Management:** MySQL, MariaDB, Database Design & Relational Mapping
-* **Frontend & UI Styling:** HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript
-* **Tools & Workflow:** Git, GitHub, Postman, VS Code, Windows Environment
+| Kategori | Teknologi & Tools |
+| :--- | :--- |
+| **Languages** | PHP, Dart, JavaScript, SQL, HTML5, CSS3 |
+| **Frameworks & Tech** | Laravel, Flutter, Bootstrap, Tailwind CSS |
+| **Backend & API** | RESTful API Development, Authentication & Authorization, Session Management, Database Optimization |
+| **Databases** | MySQL, MariaDB |
+| **Tools & Environment** | Git, GitHub, Postman, VS Code, VRChat Tools, Windows Environment |
 
 ---
 
-### 📜 Certification
+### 🎓 Education & Certification
 
-| Sertifikasi | Lembaga Penerbit | Keterangan |
+| Kategori | Institusi / Lembaga | Jurusan / Program |
 | :--- | :--- | :--- |
-| **Sertifikasi Kompetensi BNSP** | Badan Nasional Sertifikasi Profesi | Pemrograman Web / Software Development (SKKNI) |
+| **Pendidikan Tinggi** | Universitas Negeri Yogyakarta (UNY) | S1 Teknologi Informasi |
+| **Pendidikan Menengah** | SMKN 1 Bantul | Rekayasa Perangkat Lunak (RPL) |
+| **Sertifikasi Profesi** | BNSP (Badan Nasional Sertifikasi Profesi) | Pemrograman Web / Software Developer (SKKNI) |
 
 ---
 
